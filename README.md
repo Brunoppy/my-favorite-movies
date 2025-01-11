@@ -32,9 +32,9 @@ CSS3: Styling and layout using modern techniques like flexbox.
 📂 Project Structure
 
 my-favorite-movies/
-├── index.html     # Main HTML file
-├── styles.css     # CSS styles
-└── README.md      # Project documentation
+├── index.html     # Main HTML file.
+├── styles.css     # CSS styles.
+└── README.md      # Project documentation.
 
 
 🌟 Future Improvements

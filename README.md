@@ -41,6 +41,7 @@ Include interactive features, such as a search bar or filter options.
 Implement a dark mode for better user experience.
 
 🖊️ Author
+
 Name: Brunoppy
 
 GitHub: Brunoppy

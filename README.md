@@ -42,6 +42,7 @@ Implement a dark mode for better user experience.
 
 🖊️ Author
 Name: Brunoppy
+
 GitHub: Brunoppy
 
 📜 License

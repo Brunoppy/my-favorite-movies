@@ -30,10 +30,12 @@ HTML5: Semantic and accessible content structure.
 CSS3: Styling and layout using modern techniques like flexbox.
 
 📂 Project Structure
+
 my-favorite-movies/
 ├── index.html     # Main HTML file
 ├── styles.css     # CSS styles
 └── README.md      # Project documentation
+
 
 🌟 Future Improvements
 Add more detailed descriptions for each movie.

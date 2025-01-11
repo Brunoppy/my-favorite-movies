@@ -19,6 +19,7 @@ The **My Favorite Movies** project is a personal page that lists my favorite mov
 
 ---
 
+
 ## 🚀 How to Use
 
 1. Clone the repository to your local machine:
@@ -26,8 +27,11 @@ The **My Favorite Movies** project is a personal page that lists my favorite mov
    git clone https://github.com/Brunoppy/my-favorite-movies.git
 
 🛠️ Technologies Used
+
 HTML5: Semantic and accessible content structure.
+
 CSS3: Styling and layout using modern techniques like flexbox.
+
 
 📂 Project Structure
 
@@ -45,14 +49,17 @@ Add more detailed descriptions for each movie.
 Include interactive features, such as a search bar or filter options.
 Implement a dark mode for better user experience.
 
+
 🖊️ Author
 
 Name: Brunoppy
 
 GitHub: Brunoppy
 
+
 📜 License
 This project is licensed under the MIT License. You are free to use, modify, and distribute it as per the terms of the license.
+
 
 💡 Feedback
 If you have any suggestions or feedback, feel free to open an issue or contact me directly.
